@@ -61,9 +61,9 @@ Code-MultipleKernel/
 K. Li, G. Wu, Randomized Algorithms with Sparse Kernel Weights for Large-scale Multiple Kernel Dimensionality Reduction and Clustering, Machine Learning.
 
 📧 Contact
+
 Any discussions or concerns are welcomed! Please contact me via:
 like@xzhmu.edu.cn
 
-# Any discussions or concerns are welcomed! Please contact me via e-mail: like@xzhmu.edu.cn. 
 
 
